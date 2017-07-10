@@ -1,4 +1,7 @@
 # Android-Firebase Authentication Demo App
+![firebase-logo](https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png)
+
+
 Firebase for Android basic Sign Up
 
 
@@ -70,3 +73,4 @@ You will need to create method for the *firebaseAuth* **creatUserWithEmailAndPas
 
 ```
 Additional information available via [Firebase](https://firebase.google.com/docs/auth/android/start/) website
+![firebase-android](https://image.slidesharecdn.com/random-170509165044/95/secon2017-android-things-google-weave-6-638.jpg?cb=1494351640)
