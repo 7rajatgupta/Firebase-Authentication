@@ -1,5 +1,5 @@
 # Android-Firebase Authentication Demo App
-![firebase-logo](https://s.appbrain.com/static/201706261945530/blob/sdk-logos/firebase.png)
+![firebase-logo](https://firebase.google.com/images/brand-guidelines/logo-standard.png)
 
 
 Firebase for Android basic Sign Up
